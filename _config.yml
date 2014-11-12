@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Maxence Aïci
 tagline:          'A Jekyll theme'
-description:      'A CS Student\'s blog '
+description:      "A CS Student's blog "
 url:              http://hyde.getpoole.com
 baseurl:          /
 
